@@ -9,7 +9,6 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
-    "gulp": "^3.9.1",
     "jasmine": "^2.5.2",
     "phantomjs": "^2.1.7"
   }

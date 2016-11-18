@@ -1,5 +1,6 @@
 var app = require('../js/script_1.js');
 
+
 describe("Pow func", function () {
 
     it("contains spec with an expectation", function () {

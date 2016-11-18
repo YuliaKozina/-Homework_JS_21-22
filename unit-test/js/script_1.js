@@ -26,6 +26,7 @@ var app = {
         }
 
         console.log(b);
+        return b
     }
 
 };
