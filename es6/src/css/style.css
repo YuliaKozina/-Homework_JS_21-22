@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    height: 900px;
+    background: linear-gradient(#fff, #56b2d1);
+}
+
+.test {
+    margin-left: 20px;
+}
+
+.test h1 {
+    font-family: 'Times New Roman';
+    font-weight: bold;
+}
+
+.question {
+    font-family: 'Times New Roman';
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.answer {
+    font-family: 'Times New Roman';
+    font-size: 16px;
+    font-weight: normal;
+}
+
+button {
+    margin: 20px;
+}

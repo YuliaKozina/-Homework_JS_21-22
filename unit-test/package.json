@@ -1,0 +1,16 @@
+{
+  "name": "unit-test",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yulia Kozina",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "jasmine": "^2.5.2",
+    "phantomjs": "^2.1.7"
+  }
+}
